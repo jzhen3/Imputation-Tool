@@ -2,6 +2,8 @@
 
 This toolbox combines multiple imputation methods into a single workflow, to evaluate imputation performance and its impact on downstream supervised learning problems.
 
+Aim to provide accurate imputation for different datasets (mixed data types, numeric data types, or categorical data types)
+
 Current features are outlined below.
 
 ## Imputation methods

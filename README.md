@@ -19,6 +19,8 @@ Current features are outlined below.
 
 ## Datasets
 The following datasets have been obtained from the open-source University California Irvine repository. Datasets have been harmonized as .csv files with features identified as named columns.
+  * Fraudulent Transactions
+  * Insurance Charges
   * Air Quality
   * Automobile
   * Beijing Multi-site
